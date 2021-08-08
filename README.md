@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-(images/Mobile.png)
+<img src="./images/mobile.png" width="200">
 
-(/images/Deskto.png)
+<img src="./images/desktop.png" height="350">
 
 
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/atinderbirsin/frontEnd-Mentor-Challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -53,6 +53,6 @@ Users should be able to:
 
 ## Author
 
-- Website - Atinderbir Singh
-- Frontend Mentor - @atinderbirsin
+- Website - [Atinderbir Singh](https://github.com/atinderbirsin)
+- Frontend Mentor - [@atinderbirsin](https://www.frontendmentor.io/profile/atinderbirsin)
 
