@@ -29,7 +29,7 @@ Users should be able to:
 
 <img src="images/Mobile.png" width="200">
 
-<img src="./images/deskto.png" height="350">
+<img src="images/deskto.png" height="350">
 
 
 
