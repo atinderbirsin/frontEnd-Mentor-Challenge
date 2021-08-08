@@ -1,0 +1,114 @@
+body {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	background-color: var(--verydarkblue);
+	font-family: var(--primary), var(--secondary);
+}
+
+.container {
+	display: flex;
+	width: 99.5%;
+	height: 620px;
+	justify-content: center;
+	align-items: center;
+}
+.card {
+	height: 350px;
+	width: 40%;
+}
+#card1 {
+	margin: 0 0 0 80px;
+	border-radius: 12px 0 0 12px;
+	background-color: var(--darkblue);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	/* align-items: center; */
+}
+#card2 {
+	margin: 0 80px 0 0;
+	background-color: var(--violet);
+	background-image: url(/home/singh/Desktop/visual/frontendmentor/project1/images/image-header-desktop.jpg);
+	background-blend-mode: multiply;
+	opacity: 1;
+	border-radius: 0 12px 12px 0;
+}
+h1 {
+	color: var(--white);
+	padding: 0 80px 0 40px;
+}
+span {
+	color: var(--violet);
+}
+p {
+	color: var(--transwhite);
+	padding: 0 80px 0 40px;
+	line-height: 1.5;
+}
+.statcard {
+	display: flex;
+	justify-content: space-evenly;
+}
+h3 {
+	color: var(--transwhite);
+	margin: 2px;
+}
+.uppercol {
+	color: var(--slitranswhite);
+	text-transform: uppercase;
+}
+
+@media (max-width: 988px) {
+	.container {
+		flex-direction: column-reverse;
+		height: 1000px;
+	}
+	#card1 {
+		margin: 0;
+		border-radius: 0 0 12px 12px;
+		height: 500px;
+		width: 370px;
+	}
+	#card2 {
+		margin: 0;
+		border-radius: 12px 12px 0 0;
+		height: 250px;
+		width: 370px;
+		background-size: cover;
+	}
+	h1,
+	p {
+		padding: 0px;
+		text-align: center;
+		margin: 0px;
+	}
+	.statcard {
+		flex-direction: column;
+	}
+	.stat {
+		text-align: center;
+	}
+}
+@media (max-width: 420px) {
+	#card2 {
+		height: 250px;
+		width: 80%;
+		background-size: cover;
+	}
+	#card1 {
+		height: 650px;
+		width: 80%;
+	}
+}
+@media (max-width: 200px) {
+	#card2 {
+		height: 250px;
+		width: 150px;
+		background-size: cover;
+	}
+	#card1 {
+		height: 650px;
+		width: 150px;
+	}
+}
