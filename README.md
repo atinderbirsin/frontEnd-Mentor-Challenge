@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./images/mobile.png" width="200">
+<img src="images/mobile.png" width="200">
 
 <img src="./images/desktop.png" height="350">
 
