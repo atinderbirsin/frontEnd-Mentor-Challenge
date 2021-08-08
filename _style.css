@@ -29,7 +29,7 @@ body {
 #card2 {
 	margin: 0 80px 0 0;
 	background-color: var(--violet);
-	background-image: url(/home/singh/Desktop/visual/frontendmentor/project1/images/image-header-desktop.jpg);
+	background-image: url(images/image-header-desktop.jpg);
 	background-blend-mode: multiply;
 	opacity: 1;
 	border-radius: 0 12px 12px 0;
