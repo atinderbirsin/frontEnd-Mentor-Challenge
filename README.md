@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](/home/singh/Desktop/visual/frontendmentor/project1/images/Mobile.png)
+(images/Mobile.png)
 
-(/home/singh/Desktop/visual/frontendmentor/project1/images/Deskto.png)
+(/images/Deskto.png)
 
 
 
